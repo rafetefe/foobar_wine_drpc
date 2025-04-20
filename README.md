@@ -1,5 +1,5 @@
 # foobar_wine_drpc
-Making Rich Precense of Foobar2000 working foobar that runs in linux wine. 
+Making Discord Rich Precense of Foobar2000 work in for a foobar running linux wine. 
 
 
 # Installation
