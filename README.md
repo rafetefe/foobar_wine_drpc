@@ -1,5 +1,6 @@
 # foobar_wine_drpc
-Linux Discord with Wine-Foobar2000 Rich Presence 
+Making Rich Precense of Foobar2000 working foobar that runs in linux wine. 
+
 
 # Installation
 Place both dlls into `C:\Program Files (x86)\foobar2000\components`
